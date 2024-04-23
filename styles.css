@@ -1,0 +1,38 @@
+.grandparent{
+    background-color: red;
+    width: 500px;
+    height: 500px; 
+    border: 1px solid yellow;
+    position: fixed;
+
+}
+
+.parent{
+    background-color: blue;
+    width: 250px;
+    height:250px;
+    border: 1px solid yellow;
+    position: fixed;
+    left: 125px;
+    top: 125px;
+
+}
+
+.child{
+    background-color: green;
+    width: 125px;
+    height: 125px; 
+    border: 1px solid yellow;
+    position: fixed;
+    left: 187.5px;
+    top: 187.5px;
+      
+}
+
+.button1 {
+    background-color: pink;
+}
+
+.button2 {
+    background-color: plum;
+}
